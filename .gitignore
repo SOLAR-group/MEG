@@ -1,0 +1,15 @@
+*DS_Store
+*.iml
+.idea/*
+*target/*
+
+dependency-reduced-pom.xml
+
+src/evalResult/*
+
+/FUN*.csv
+jMetal.log
+/VAR*.csv
+/output*/
+output.zip
+!output*.xls
